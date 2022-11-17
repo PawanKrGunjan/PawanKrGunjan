@@ -2,7 +2,7 @@
 - 👀 I’m interested in Natural Language Processing & Machine Learning.
 - 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on Natural Language Processing..
-- 📫 How to reach me 9945040437
+- 📫 Reach me at +91 9945040437
 
 <!---
 PawanKrGunjan/PawanKrGunjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
