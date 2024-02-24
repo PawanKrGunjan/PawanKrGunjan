@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PawanKrGunjan
-- 👀 I’m interested in Natural Language Processing & Machine Learning.
-- 🌱 I’m currently learning NLP.
-- 💞️ I’m looking to collaborate on Natural Language Processing..
+- 👀 I’m interested in Artificial Intelligence & Machine Learning.
+- 🌱 I’m currently learning AI Search Alagorithms.
+- 💞️ I’m looking to collaborate on AI & ML.
 - 📫 Reach me at pawankumargunjan@hotmail.com
 
 <!---
